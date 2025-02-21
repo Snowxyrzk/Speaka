@@ -22,7 +22,7 @@
   
  
 # Baixar aqui
-
+[Clique aqui para baixar](https://cdn.discordapp.com/attachments/1336856192261029899/1342319432097075252/speaka-ext.zip?ex=67b933e3&is=67b7e263&hm=96461873011f9eb5d721b2c47fe1b0b7d2d3369bc2680a26492cea4d46caea16&)
 
 # AVISOS DE USO📖
 **o Speaké uma ferramenta de uso exclusivamente educacional, NÃO AUTORIZAMOS O USO DE TERCEIROS!
