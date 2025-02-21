@@ -1,7 +1,7 @@
 # Speaka 
  <a href="#"><img src="https://komarev.com/ghpvc/?username=tskbrasil&style=for-the-badge&label=Views:&color=ff69b4"/></a>
 
-**O Khan Destroyer é a ferramenta definitiva para acabar com seus problemas no Khan Academy!**
+**O Speaka é uma ferramenta desenvolvida para agilizar e facilitar suas lições no Speak, ajudando você a completar exercícios mais rápido e com mais eficiência.**
 
 **Desenvolvidor por: Games Destroyer**
 # NOSSO DISCORD!
