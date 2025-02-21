@@ -3,7 +3,7 @@
 
 **O Khan Destroyer é a ferramenta definitiva para acabar com seus problemas no Khan Academy!**
 
-**Desenvolvidor por: **Games Destroyer**
+**Desenvolvidor por: Games Destroyer**
 # NOSSO DISCORD!
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gamesdest)
 
@@ -23,10 +23,6 @@
  
 # Baixar aqui
 
-```js
-
-```
-# SE VOCÊ TENTAR USAR SEM O MODO COMPUTADOR ATIVO NÃO VAI FUNCIONAR!!!!⚠️ 
 
 # AVISOS DE USO📖
 **o Speaké uma ferramenta de uso exclusivamente educacional, NÃO AUTORIZAMOS O USO DE TERCEIROS!
