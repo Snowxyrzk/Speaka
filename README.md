@@ -20,7 +20,7 @@
 # Instruções
 *Baixe o arquivo carregue ele nas extenções sem compactação execute o speak e se divirta!*
 
-**TUtorial**
+**Tutorial**
 [ver tutorial clique aqui](https://files.fm/f/qm3auk6gm8)
   
  
